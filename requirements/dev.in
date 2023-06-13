@@ -12,3 +12,4 @@ recommonmark
 Sphinx
 sphinx-rtd-theme
 sphinx-tabs
+sphinxcontrib-mermaid
